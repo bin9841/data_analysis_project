@@ -23,7 +23,7 @@
 |hand|int|주로 사용하는 손|1, 1, 1, 1, 2, 1, 1, ...|
 |married|int|혼인 상태|3, 1, 2, 1, 2, 3, 1, ...|
 |race|chr|인종|White, Asian, White, Asian, ...|
-|religion|chr|Other, Hindu, Other, Hindu, ...|
+|religion|chr|종교|Other, Hindu, Other, Hindu, ...|
 |urban|int|유년기 거주 구역|1, 3, 2, 3, 1, 2, 2, 2, 1, ...|
 |voted|int|지난 해 국가 선거 투표 여부|2, 2, 1, 1, 1, 2, 1, 1, 1, 1, ...|
 
